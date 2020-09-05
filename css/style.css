@@ -65,6 +65,12 @@ section > h2 {
   grid-template-rows: auto auto auto;
   grid-gap: 1.9%;
 }
+#yellow-background{
+  background: yellow;}
+#lightblue-background{
+  background: lightblue;}
+#red-background{
+  background: red;}
 
 @media (min-width: 768px) and (max-width: 991px) {
   #japan-media {
